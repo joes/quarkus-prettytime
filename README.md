@@ -62,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://gastaldi.wordpress.com"><img src="https://avatars.githubusercontent.com/u/54133?v=4?s=100" width="100px;" alt=""/><br /><sub><b>George Gastaldi</b></sub></a><br /><a href="https://github.com/quarkiverse/quarkus-prettytime/commits?author=gastaldi" title="Code">💻</a> <a href="#maintenance-gastaldi" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/mkouba"><img src="https://avatars.githubusercontent.com/u/913004?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Martin Kouba</b></sub></a><br /><a href="https://github.com/quarkiverse/quarkus-prettytime/commits?author=mkouba" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/joes"><img src="https://avatars.githubusercontent.com/u/32820?s=100&v=4" width="100px;" alt=""/><br /><sub><b>Joe Siponen</b></sub></a><br /><a href="https://github.com/quarkiverse/quarkus-prettytime-nlp/commits?author=joes" title="Code">💻</a></td>
   </tr>
 </table>
 

@@ -1,1 +1,3 @@
-* xref:index.adoc[Quarkus - Prettytime]
+* xref:index.adoc[Introduction]
+* xref:prettytime.adoc[Quarkus - PrettyTime]
+* xref:prettytime-nlp.adoc[Quarkus - PrettyTime NLP]
